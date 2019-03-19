@@ -1,4 +1,4 @@
-# FXT
+# FXT and hfloat
 FXT library by Jorg Arndt. Downloaded version: 2019/03/09
 
 An online book by same author is here:
